@@ -1,5 +1,0 @@
-{
-  "name": "Supabase Finance Tracker",
-  "description": "A modern, responsive personal finance tracker built with React, TypeScript, and Tailwind CSS, powered by Supabase for backend services. Manage income, expenses, and categories with ease.",
-  "requestFramePermissions": []
-}
