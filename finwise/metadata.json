@@ -1,5 +1,0 @@
-{
-  "name": "FinWise",
-  "description": "A modern, responsive personal finance app built with React, TypeScript, and Tailwind CSS, powered by Supabase for backend services. Intelligently manage your income, expenses, and financial goals.",
-  "requestFramePermissions": []
-}
